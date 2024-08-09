@@ -1,0 +1,17 @@
+G:\Projetos\DIO\bin\Debug\net8.0\DIO.exe
+G:\Projetos\DIO\bin\Debug\net8.0\DIO.deps.json
+G:\Projetos\DIO\bin\Debug\net8.0\DIO.runtimeconfig.json
+G:\Projetos\DIO\bin\Debug\net8.0\DIO.dll
+G:\Projetos\DIO\bin\Debug\net8.0\DIO.pdb
+G:\Projetos\DIO\obj\Debug\net8.0\DIO.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projetos\DIO\obj\Debug\net8.0\DIO.AssemblyInfoInputs.cache
+G:\Projetos\DIO\obj\Debug\net8.0\DIO.AssemblyInfo.cs
+G:\Projetos\DIO\obj\Debug\net8.0\DIO.csproj.CoreCompileInputs.cache
+G:\Projetos\DIO\obj\Debug\net8.0\DIO.dll
+G:\Projetos\DIO\obj\Debug\net8.0\refint\DIO.dll
+G:\Projetos\DIO\obj\Debug\net8.0\DIO.pdb
+G:\Projetos\DIO\obj\Debug\net8.0\DIO.genruntimeconfig.cache
+G:\Projetos\DIO\obj\Debug\net8.0\ref\DIO.dll
+G:\Projetos\DIO\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\Projetos\DIO\obj\Debug\net8.0\DIO.csproj.AssemblyReference.cache
+G:\Projetos\DIO\obj\Debug\net8.0\DIO.csproj.Up2Date
